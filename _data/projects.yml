@@ -1,11 +1,11 @@
 - name: Project Crypotos Client
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://github.com/RedDevREAL/PrivateProject
-  description: A currently private mcp client im working on.
+  description: A currently private minecraft mcp client im working on.
 - name: Project Fave Client
   link: https://github.com/RedDevREAL/PrivateProject
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: A currently private injection client im working on.
+  description: A currently private minecraft injection client im working on.
 - name: Project MOC
   link: https://github.com/RedDevREAL/MOC
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
